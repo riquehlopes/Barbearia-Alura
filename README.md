@@ -1,5 +1,6 @@
 # Barbearia-Alura
 Projeto realizado durante os 4 cursos iniciais de HTML e CSS da Alura.
+https://riquehlopes.github.io/Barbearia-Alura/
 
 Durante os cursos foram vistos os seguintes tópicos:
 
